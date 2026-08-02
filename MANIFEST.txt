@@ -1,0 +1,14 @@
+Founder OS Skills for Houston
+Version: 1.0.0
+Skills: 7
+
+- founder-os
+- idea-validation
+- positioning
+- business-model
+- marketing-brand
+- go-to-market
+- growth-analytics
+
+Importable packages: dist/*.skill
+Drop-in workspace source: .agents/skills/
